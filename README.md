@@ -1,6 +1,6 @@
 # image-classification
 
-Classification of shoes, clothes, etc. Code similar to a tutorial on the internet. 
+Python Code for Classification of shoes, clothes, etc based on a tutorial. 
 
 # Code and resources
 Python version: 3.9.9
